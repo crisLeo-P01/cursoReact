@@ -1,0 +1,16 @@
+.container-create-task {
+  display: flex;
+  align-items: center;
+  column-gap: 15px;
+  background-color: #E0DFFF;
+  border-radius: 20px;
+  padding: 20px 30px;
+}
+.container-create-task h3 {
+  font-size: 24px;
+  color: #5757EB;
+  margin: 0;
+}
+.img-portada {
+  width: 345px;
+}

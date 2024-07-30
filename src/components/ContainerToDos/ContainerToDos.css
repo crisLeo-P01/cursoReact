@@ -1,0 +1,15 @@
+.container-todos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-height: 100%;
+  row-gap: 15px;
+  width: 526px;
+  border-radius: 30px;
+  text-align: center;
+}
+.container-todos .title-todos {
+  font-size: 48px;
+  color: #FFF;
+  line-height: 0;
+}
